@@ -7,7 +7,7 @@
     "license": "GPL-2.0-only",
     "private": true,
     "dependencies": {
-        "@vanillaforums/theme-boilerplate": "^1.1.7"
+        "@vanillaforums/theme-boilerplate": "^1.4.0"
     },
     "devDependencies": {
         "@vanillaforums/prettier-config": "^1.0.0",
